@@ -18,6 +18,10 @@ As I learned I broaden my knowledge, learning javascript was my first step towar
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </p>
  
+ ```shell
+console.log('Hello World');
+```
+
 <!--
 **sholgado/sholgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
