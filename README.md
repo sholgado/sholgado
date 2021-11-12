@@ -1,5 +1,5 @@
 ### Hey, this is me 👋
-##🌱 Genesis
+## 🌱 Genesis
 it all started with:
 ```shell
 console.log('Hello World');
