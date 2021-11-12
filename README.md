@@ -1,7 +1,7 @@
 ### Hey, this is me 👋
 
 it all started with:
-```
+```shell
 console.log('Hello World');
 ```
 <!--
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dzg0zy1nqj419mjm4wikbdvtm&cover_image=true&theme=novatorem&bar_color=2bd466&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
